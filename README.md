@@ -8,20 +8,16 @@
 ---
 
 ## Project Repository
-
-https://github.com/你的帳號/final-project
+(https://github.com/113370224Stephanie/2026-Spring-Stat-2-Cycle-4)
 
 ---
 
 ## Presentation Video
-
 (https://youtu.be/ZJ5ZIHKAiuA)
 ---
 
 ## Project Overview
-
 This project investigates whether computer use is associated with sadness and general health among adolescents.
-
 Data from the Youth Risk Behavior Survey (YRBS) were analyzed. Logistic regression was used to examine the association between computer use and sadness while controlling for age and sex.
 
 ---
@@ -29,9 +25,7 @@ Data from the Youth Risk Behavior Survey (YRBS) were analyzed. Logistic regressi
 # 1. Research Question and Variable Definitions
 
 ## Research Question
-
 Is computer use associated with adolescent sadness and general health?
-
 ---
 
 ## Variable Definitions
@@ -66,7 +60,6 @@ Is computer use associated with adolescent sadness and general health?
 # 2. Data Cleaning and Statistical Methodology
 
 ## Data Cleaning
-
 - Removed missing values
 - Recoded categorical variables
 - Checked variable consistency
@@ -79,9 +72,7 @@ Final sample size:
 ---
 
 ## Statistical Method
-
 ### Logistic Regression
-
 Logistic regression was used to examine the association between computer use and sadness.
 
 Predictor Variables:
@@ -99,21 +90,17 @@ Age and sex were included as control variables.
 # 3. Descriptive Results
 
 ## Computer Use Distribution
-
 Most adolescents reported regular computer use.
 
 ## Sadness by Computer Use
-
 Higher levels of computer use were associated with higher sadness rates.
 
 ## General Health by Computer Use
-
 General health remained relatively stable across different computer use levels.
 
 ---
 
 # 4. Key Findings
-
 - Higher computer use was associated with higher sadness.
 - Females showed higher predicted probabilities of sadness.
 - General health differences were relatively small.
@@ -122,7 +109,6 @@ General health remained relatively stable across different computer use levels.
 ---
 
 # 5. Conclusions
-
 - Higher computer use is associated with increased sadness among adolescents.
 - General health differences are relatively small.
 - The results indicate an association rather than a causal relationship.
@@ -144,9 +130,7 @@ General health remained relatively stable across different computer use levels.
 ---
 
 ## Group Definition
-
 The study included adolescents aged 12–18 years.
-
 Age and sex were included as control variables in the regression model.
 
 ---
@@ -154,11 +138,9 @@ Age and sex were included as control variables in the regression model.
 ## Response Variable Definition
 
 ### Sadness
-
 Binary outcome variable indicating whether a student felt sad or hopeless.
 
 ### General Health
-
 Self-reported overall health status.
 
 ---
@@ -166,7 +148,6 @@ Self-reported overall health status.
 ## Method Choice
 
 Logistic Regression
-
 Used to evaluate the association between computer use and sadness while controlling for age and sex.
 
 ---
